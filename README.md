@@ -1,2 +1,2 @@
 # compthinking
-PubPol 543A Computational Thinking for Governance Analytics
+PubPol 542 Computational Thinking for Governance Analytics
